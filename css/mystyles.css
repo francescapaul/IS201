@@ -1,0 +1,36 @@
+ul{
+    font-size: 20px;
+}
+ol {
+    font-size: 20px;
+}
+body {
+background-color: aliceblue;
+}
+body { 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.items {
+    list-style-type: square;
+}
+.alignment{
+    text-align: center;
+}
+.font1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.underline {
+    text-decoration: underline
+}
+
+.fontsize{
+    font-size: 15px;
+    font-weight: bold;
+}
+.fontcolor{
+    color: navy;
+}
+.bullet{
+    list-style-type: circle;
+}
